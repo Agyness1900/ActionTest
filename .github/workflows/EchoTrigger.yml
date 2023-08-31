@@ -1,4 +1,4 @@
-name: SCMTrigger
+name: EchoTrigger
 on:
   workflow_dispatch:
   push:
